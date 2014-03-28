@@ -1,0 +1,67 @@
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Khai-Khai_New.dll
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Khai-Khai_New.pdb
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\AppManifest.xaml
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Khai_Khai_New_Debug_AnyCPU.xap
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\App.g.cs
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\MainPage.g.cs
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.g.resources
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai_Khai_New.Resources.AppResources.resources
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.csproj.GenerateResource.Cache
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.dll
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.pdb
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\XapCacheFile.xml
+c:\users\lokesh basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\PlayNow.g.cs
+C:\Users\Lokesh Basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Winner.g.cs
+C:\Users\Lokesh Basu\documents\visual studio 2012\Projects\Khai-Khai_New\Khai-Khai_New\obj\Debug\Topic.g.cs
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\send_message.mp3
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Khai-Khai_New.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Khai-Khai_New.pdb
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\AppManifest.xaml
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Khai_Khai_New_Debug_AnyCPU.xap
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.csprojResolveAssemblyReference.cache
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\App.g.cs
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\MainPage.g.cs
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\PlayNow.g.cs
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Topic.g.cs
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Winner.g.cs
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.g.resources
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai_Khai_New.Resources.AppResources.resources
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.csproj.GenerateResource.Cache
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.dll
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\Khai-Khai_New.pdb
+C:\Users\Vikram Rathore\Desktop\Khai-Khai_New\Khai-Khai_New\obj\Debug\XapCacheFile.xml

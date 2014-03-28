@@ -1,0 +1,45 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:eim="clr-namespace:Microsoft.Expression.Interactivity.Media;assembly=Microsoft.Expression.Interactions"
+    x:Class="Khai_Khai_New.Winner"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+	<Grid x:Name="LayoutRoot" Background="Transparent">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<!--TitlePanel contains the name of the application and page title-->
+		<StackPanel Grid.Row="0" Margin="12,17,0,28">
+			<TextBlock Text="Khai-Khai" Style="{StaticResource PhoneTextNormalStyle}"/>
+			<TextBlock x:Name="Winner1" Text="you chose" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" HorizontalAlignment="Center" FontSize="60"/>
+		</StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+		<Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+			<TextBlock x:Name="WinnerName" HorizontalAlignment="Left" Margin="62,411,0,0" TextWrapping="Wrap" Text="{Binding}" VerticalAlignment="Top" Width="332" Height="67" FontFamily="Segoe WP SemiLight" FontSize="30" TextAlignment="Center"/>
+			<Button x:Name="PlayAgain" Content="Play Again" HorizontalAlignment="Left" Margin="10,483,0,0" VerticalAlignment="Top" Width="436" Height="114" Click="Button_Click_1">
+				<i:Interaction.Triggers>
+					<i:EventTrigger EventName="Click">
+						<eim:PlaySoundAction Source="/send_message.mp3" Volume="1"/>
+					</i:EventTrigger>
+				</i:Interaction.Triggers>
+			</Button>
+
+		</Grid>
+		<Image x:Name="WinnerImage" Margin="50,10,50,233" Grid.Row="1" VerticalAlignment="Center" Width="380" Height="380" Source="{Binding}"/>
+	</Grid>
+
+</phone:PhoneApplicationPage>
